@@ -1,0 +1,10 @@
+public class MyClass {
+    public static void main(String args[]) {
+      //The print function only seems to print the output on a single line
+      System.out.print("print function");
+      System.out.print("print function X 2");
+      //The println function prints its input on seperate lines
+      System.out.println("println function");
+      System.out.println("println function X 2");
+    }
+}
